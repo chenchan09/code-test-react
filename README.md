@@ -29,3 +29,8 @@ What the app should do:
 
 - Feel free to show off more of your skillset. You can use state management libraries, react-router and other libraries that you are comfortable using.
 - You can add different transitions.
+
+
+
+##### Applicant
+I wasn't able to finish the code on time due to compatibility issue.
